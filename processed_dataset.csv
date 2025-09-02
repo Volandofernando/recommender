@@ -1,6 +1,0 @@
-fabric_type,moisture_regain,water_absorption,drying_time,thermal_conductivity,comfort_score
-Cotton,8.5,1200,60,0.04,85
-Polyester,0.4,400,30,0.05,60
-Wool,18.0,1500,80,0.03,90
-Silk,11.0,900,50,0.045,80
-Nylon,4.5,600,40,0.06,65
